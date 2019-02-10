@@ -1,1 +1,0 @@
-Pong game based off of a coding challenge: https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_067_Pong_p5.js

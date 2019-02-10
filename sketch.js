@@ -8,12 +8,12 @@ let speedSlider;
 
 let leftscore = 0;
 
-let loadBestBrain = true;
+let loadBestBrain = false;
 
 let bestBrainJSON = null;
 let bestBrain = null;
 
-let showBest = true;
+let showBest = false;
 
 function preload() {
     bestBrainJSON = loadJSON("BestPaddleGen27.json");
